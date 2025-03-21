@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/Student/bin/Debug/net9.0/Student
+/Users/bragekristoffersen/Documents/Programmering C#/Student/bin/Debug/net9.0/Student.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/Student/bin/Debug/net9.0/Student.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/Student/bin/Debug/net9.0/Student.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Student/bin/Debug/net9.0/Student.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/Student/obj/Debug/net9.0/Student.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/Student/obj/Debug/net9.0/Student.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Student/obj/Debug/net9.0/Student.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/Student/obj/Debug/net9.0/Student.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Student/obj/Debug/net9.0/Student.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Student/obj/Debug/net9.0/refint/Student.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Student/obj/Debug/net9.0/Student.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/Student/obj/Debug/net9.0/Student.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Student/obj/Debug/net9.0/ref/Student.dll

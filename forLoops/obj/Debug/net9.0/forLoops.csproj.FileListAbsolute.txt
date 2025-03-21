@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/bin/Debug/net9.0/forLoops
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/bin/Debug/net9.0/forLoops.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/bin/Debug/net9.0/forLoops.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/bin/Debug/net9.0/forLoops.dll
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/bin/Debug/net9.0/forLoops.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/obj/Debug/net9.0/forLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/obj/Debug/net9.0/forLoops.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/obj/Debug/net9.0/forLoops.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/obj/Debug/net9.0/forLoops.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/obj/Debug/net9.0/forLoops.dll
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/obj/Debug/net9.0/refint/forLoops.dll
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/obj/Debug/net9.0/forLoops.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/obj/Debug/net9.0/forLoops.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/forLoops/obj/Debug/net9.0/ref/forLoops.dll

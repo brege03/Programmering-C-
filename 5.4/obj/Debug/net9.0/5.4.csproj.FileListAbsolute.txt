@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/bin/Debug/net9.0/5.4
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/bin/Debug/net9.0/5.4.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/bin/Debug/net9.0/5.4.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/bin/Debug/net9.0/5.4.dll
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/bin/Debug/net9.0/5.4.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/obj/Debug/net9.0/5.4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/obj/Debug/net9.0/5.4.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/obj/Debug/net9.0/5.4.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/obj/Debug/net9.0/5.4.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/obj/Debug/net9.0/5.4.dll
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/obj/Debug/net9.0/refint/5.4.dll
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/obj/Debug/net9.0/5.4.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/obj/Debug/net9.0/5.4.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/5.4/obj/Debug/net9.0/ref/5.4.dll

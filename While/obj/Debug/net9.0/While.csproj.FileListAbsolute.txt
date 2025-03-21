@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/While/bin/Debug/net9.0/While
+/Users/bragekristoffersen/Documents/Programmering C#/While/bin/Debug/net9.0/While.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/While/bin/Debug/net9.0/While.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/While/bin/Debug/net9.0/While.dll
+/Users/bragekristoffersen/Documents/Programmering C#/While/bin/Debug/net9.0/While.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/While.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/While.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/While.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/While.dll
+/Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/refint/While.dll
+/Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/While.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/While.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/ref/While.dll

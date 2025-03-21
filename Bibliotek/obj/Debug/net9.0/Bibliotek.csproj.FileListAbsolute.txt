@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/bin/Debug/net9.0/Bibliotek
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/bin/Debug/net9.0/Bibliotek.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/bin/Debug/net9.0/Bibliotek.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/bin/Debug/net9.0/Bibliotek.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/bin/Debug/net9.0/Bibliotek.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/obj/Debug/net9.0/Bibliotek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/obj/Debug/net9.0/Bibliotek.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/obj/Debug/net9.0/Bibliotek.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/obj/Debug/net9.0/Bibliotek.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/obj/Debug/net9.0/Bibliotek.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/obj/Debug/net9.0/refint/Bibliotek.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/obj/Debug/net9.0/Bibliotek.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/obj/Debug/net9.0/Bibliotek.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Bibliotek/obj/Debug/net9.0/ref/Bibliotek.dll

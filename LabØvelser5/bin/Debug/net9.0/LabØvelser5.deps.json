@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LabØvelser5/1.0.0": {
+        "runtime": {
+          "LabØvelser5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabØvelser5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

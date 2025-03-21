@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/bin/Debug/net9.0/Bil
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/bin/Debug/net9.0/Bil.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/bin/Debug/net9.0/Bil.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/bin/Debug/net9.0/Bil.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/bin/Debug/net9.0/Bil.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/obj/Debug/net9.0/Bil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/obj/Debug/net9.0/Bil.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/obj/Debug/net9.0/Bil.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/obj/Debug/net9.0/Bil.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/obj/Debug/net9.0/Bil.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/obj/Debug/net9.0/refint/Bil.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/obj/Debug/net9.0/Bil.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/obj/Debug/net9.0/Bil.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Bil/obj/Debug/net9.0/ref/Bil.dll

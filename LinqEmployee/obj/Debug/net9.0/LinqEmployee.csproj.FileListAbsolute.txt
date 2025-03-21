@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/bin/Debug/net9.0/LinqEmployee
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/bin/Debug/net9.0/LinqEmployee.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/bin/Debug/net9.0/LinqEmployee.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/bin/Debug/net9.0/LinqEmployee.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/bin/Debug/net9.0/LinqEmployee.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/LinqEmployee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/LinqEmployee.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/LinqEmployee.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/LinqEmployee.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/LinqEmployee.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/refint/LinqEmployee.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/LinqEmployee.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/LinqEmployee.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/ref/LinqEmployee.dll

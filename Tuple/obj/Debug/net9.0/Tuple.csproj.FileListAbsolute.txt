@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/bin/Debug/net9.0/Tuple
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/bin/Debug/net9.0/Tuple.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/bin/Debug/net9.0/Tuple.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/bin/Debug/net9.0/Tuple.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/bin/Debug/net9.0/Tuple.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/obj/Debug/net9.0/Tuple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/obj/Debug/net9.0/Tuple.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/obj/Debug/net9.0/Tuple.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/obj/Debug/net9.0/Tuple.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/obj/Debug/net9.0/Tuple.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/obj/Debug/net9.0/refint/Tuple.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/obj/Debug/net9.0/Tuple.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/obj/Debug/net9.0/Tuple.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Tuple/obj/Debug/net9.0/ref/Tuple.dll

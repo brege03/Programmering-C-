@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/bin/Debug/net9.0/HandlekurvChat.cs
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/bin/Debug/net9.0/HandlekurvChat.cs.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/bin/Debug/net9.0/HandlekurvChat.cs.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/bin/Debug/net9.0/HandlekurvChat.cs.dll
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/bin/Debug/net9.0/HandlekurvChat.cs.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/obj/Debug/net9.0/HandlekurvChat.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/obj/Debug/net9.0/HandlekurvChat.cs.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/obj/Debug/net9.0/HandlekurvChat.cs.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/obj/Debug/net9.0/HandlekurvChat.cs.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/obj/Debug/net9.0/HandlekurvChat.cs.dll
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/obj/Debug/net9.0/refint/HandlekurvChat.cs.dll
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/obj/Debug/net9.0/HandlekurvChat.cs.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/obj/Debug/net9.0/HandlekurvChat.cs.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/HandlekurvChat.cs/obj/Debug/net9.0/ref/HandlekurvChat.cs.dll

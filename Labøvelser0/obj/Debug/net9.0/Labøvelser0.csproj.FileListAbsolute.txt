@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/bin/Debug/net9.0/Labøvelser0
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/bin/Debug/net9.0/Labøvelser0.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/bin/Debug/net9.0/Labøvelser0.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/bin/Debug/net9.0/Labøvelser0.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/bin/Debug/net9.0/Labøvelser0.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/obj/Debug/net9.0/Labøvelser0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/obj/Debug/net9.0/Labøvelser0.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/obj/Debug/net9.0/Labøvelser0.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/obj/Debug/net9.0/Labøvelser0.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/obj/Debug/net9.0/Labøvelser0.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/obj/Debug/net9.0/refint/Labøvelser0.dll
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/obj/Debug/net9.0/Labøvelser0.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/obj/Debug/net9.0/Labøvelser0.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/Labøvelser0/obj/Debug/net9.0/ref/Labøvelser0.dll

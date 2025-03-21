@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/bin/Debug/net9.0/LabØvelse6
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/bin/Debug/net9.0/LabØvelse6.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/bin/Debug/net9.0/LabØvelse6.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/bin/Debug/net9.0/LabØvelse6.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/bin/Debug/net9.0/LabØvelse6.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/obj/Debug/net9.0/LabØvelse6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/obj/Debug/net9.0/LabØvelse6.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/obj/Debug/net9.0/LabØvelse6.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/obj/Debug/net9.0/LabØvelse6.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/obj/Debug/net9.0/LabØvelse6.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/obj/Debug/net9.0/refint/LabØvelse6.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/obj/Debug/net9.0/LabØvelse6.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/obj/Debug/net9.0/LabØvelse6.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse6/obj/Debug/net9.0/ref/LabØvelse6.dll

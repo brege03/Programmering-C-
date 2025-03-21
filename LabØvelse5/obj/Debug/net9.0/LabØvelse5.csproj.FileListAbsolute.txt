@@ -1,0 +1,11 @@
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse5/bin/Debug/net9.0/LabØvelse5.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse5/bin/Debug/net9.0/LabØvelse5.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse5/bin/Debug/net9.0/LabØvelse5.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse5/obj/Debug/net9.0/LabØvelse5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse5/obj/Debug/net9.0/LabØvelse5.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse5/obj/Debug/net9.0/LabØvelse5.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse5/obj/Debug/net9.0/LabØvelse5.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse5/obj/Debug/net9.0/LabØvelse5.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse5/obj/Debug/net9.0/refint/LabØvelse5.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse5/obj/Debug/net9.0/LabØvelse5.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/LabØvelse5/obj/Debug/net9.0/ref/LabØvelse5.dll

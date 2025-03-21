@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/BibliotekOppgave.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/BibliotekOppgave.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/BibliotekOppgave.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/BibliotekOppgave.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/bin/Debug/net9.0/BibliotekOppgave
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/bin/Debug/net9.0/BibliotekOppgave.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/bin/Debug/net9.0/BibliotekOppgave.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/bin/Debug/net9.0/BibliotekOppgave.dll
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/bin/Debug/net9.0/BibliotekOppgave.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/BibliotekOppgave.dll
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/refint/BibliotekOppgave.dll
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/BibliotekOppgave.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/BibliotekOppgave.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/ref/BibliotekOppgave.dll

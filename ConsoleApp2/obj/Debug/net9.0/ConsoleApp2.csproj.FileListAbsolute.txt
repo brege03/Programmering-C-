@@ -1,0 +1,14 @@
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.dll
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.dll
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/obj/Debug/net9.0/refint/ConsoleApp2.dll
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/ConsoleApp2/obj/Debug/net9.0/ref/ConsoleApp2.dll
