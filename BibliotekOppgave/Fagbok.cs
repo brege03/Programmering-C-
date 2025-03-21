@@ -11,7 +11,7 @@ public string Fagområde { get; set; }
     }
     public override void VisInfo()
     {
-        Console.WriteLine($"ISBN: {ISBN}, Tittel {Tittel}, Forfatter: {Forfatter}, Utgivelsesår: {Utgivelsesår}, Fagområde: {Fagområde}");
+        Console.WriteLine($"ISBN: {ISBN}, Tittel: {Tittel}, Forfatter: {Forfatter}, Utgivelsesår: {Utgivelsesår}, Fagområde: {Fagområde}");
     }
     public void LeverInn()
     {

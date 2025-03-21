@@ -12,3 +12,4 @@
 /Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/BibliotekOppgave.pdb
 /Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/BibliotekOppgave.genruntimeconfig.cache
 /Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/ref/BibliotekOppgave.dll
+/Users/bragekristoffersen/Documents/Programmering C#/BibliotekOppgave/obj/Debug/net9.0/BibliotekOppgave.sourcelink.json

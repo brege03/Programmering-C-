@@ -97,7 +97,7 @@ static void FinnÅrstall()
 
     static void FinnTittel()
         {
-            Console.WriteLine("Hva er navnet til forfatteren?");
+            Console.WriteLine("Hva er tittelen?");
         string tittelen = Console.ReadLine().ToLower();
         var z =
             from bok in bøker
@@ -106,7 +106,7 @@ static void FinnÅrstall()
 
             if(!z.Any())
             {
-                Console.WriteLine("Fant ingen bøker med den tittelen");
+                Console.WriteLine("Fant ingen bøker med denne tittelen");
             }
             else
             {
@@ -124,6 +124,9 @@ public interface IBokFunksjoner
 }
     static void Main(string[] args)
     {
+        bøker.Add(new Roman("Fantasy", 123456789, "Harry Potter", "J.K. Rowling", 1997));
+        bøker.Add(new Fagbok("Matematikk", 987654321, "Matte 1", "Ola Normann", 2000));
+        
         while(true)
         {
         Console.WriteLine("Velkommen til biblioteket");
@@ -133,6 +136,7 @@ public interface IBokFunksjoner
         Console.WriteLine("[4] Finn bok etter årstall");
         Console.WriteLine("[5] Finn bok etter tittel");
         Console.WriteLine("[6] Avslutt");
+        Console.WriteLine("Velg et alternativ ovenfor: ");
 
         int valg = int.Parse(Console.ReadLine());
 
@@ -155,8 +159,8 @@ public interface IBokFunksjoner
                 FinnTittel();
                 break;
             case 6:
-                Environment.Exit(0);
-                break;
+                Console.WriteLine("Ha en fin dag!");
+                return;
             default:
                 Console.WriteLine("Ugyldig valg");
                 break;

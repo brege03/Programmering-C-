@@ -11,7 +11,7 @@ public class Roman : Bok
     }
     public override void VisInfo()
     {
-        Console.WriteLine($"ISBN: {ISBN}, Tittel {Tittel}, Forfatter: {Forfatter}, Utgivelsesår: {Utgivelsesår}, Sjanger: {Sjanger}");
+        Console.WriteLine($"ISBN: {ISBN}, Tittel: {Tittel}, Forfatter: {Forfatter}, Utgivelsesår: {Utgivelsesår}, Sjanger: {Sjanger}");
     }
     public void LeverInn()
     {
