@@ -12,3 +12,4 @@
 /Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/LinqEmployee.pdb
 /Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/LinqEmployee.genruntimeconfig.cache
 /Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/ref/LinqEmployee.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LinqEmployee/obj/Debug/net9.0/LinqEmployee.sourcelink.json

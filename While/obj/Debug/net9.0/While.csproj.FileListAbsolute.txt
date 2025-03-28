@@ -12,3 +12,4 @@
 /Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/While.pdb
 /Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/While.genruntimeconfig.cache
 /Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/ref/While.dll
+/Users/bragekristoffersen/Documents/Programmering C#/While/obj/Debug/net9.0/While.sourcelink.json

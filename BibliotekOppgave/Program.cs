@@ -5,6 +5,7 @@ using System.Collections.Generic;
 internal class Program
 {
     static List<Bok> bøker = new List<Bok>();
+    
     static void LeggTilBok()
     {
         Console.WriteLine("Hva er ISBN til boken?");
@@ -55,10 +56,10 @@ internal class Program
     static void FinnForfatter()
     {
         Console.WriteLine("Hva er navnet til forfatteren?");
-        string forfatteren = Console.ReadLine().ToLower();
+        string forfatteren = Console.ReadLine();
         var x =
             from bok in bøker
-            where bok.Forfatter.Contains(forfatteren)
+            where bok.Forfatter == forfatteren
             select bok;
 
         if(!x.Any())
@@ -73,7 +74,8 @@ internal class Program
                 }
             }
     }
-static void FinnÅrstall()
+
+    static void FinnÅrstall()
     {
         Console.WriteLine("Hva er årstallet til boken?");
         int år = int.Parse(Console.ReadLine());
@@ -98,10 +100,10 @@ static void FinnÅrstall()
     static void FinnTittel()
         {
             Console.WriteLine("Hva er tittelen?");
-        string tittelen = Console.ReadLine().ToLower();
+        string tittelen = Console.ReadLine();
         var z =
             from bok in bøker
-            where bok.Tittel.Contains(tittelen)
+            where bok.Tittel == tittelen
             select bok;
 
             if(!z.Any())
@@ -117,11 +119,7 @@ static void FinnÅrstall()
             }
         }
 
-public interface IBokFunksjoner
-{
-    void LånUt();
-    void LeverInn();
-}
+
     static void Main(string[] args)
     {
         bøker.Add(new Roman("Fantasy", 123456789, "Harry Potter", "J.K. Rowling", 1997));

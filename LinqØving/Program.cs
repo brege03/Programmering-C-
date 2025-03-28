@@ -15,20 +15,19 @@ class LinqØving
         int originalScoreCount = scores.Count;
         Console.WriteLine($"The number of scores are: {originalScoreCount}");
        
-        /*IEnumerable<string> scoreQuery =
-            from score in scores
-            where score > 80
-            orderby score descending
-            select $"The score is {score}";
-            */
-           
-        var scoreQuery = scores.Where(s => s > 80). OrderByDescending(s => s);
+        IEnumerable<string> scoreQuery = 
+            from score in scores 
+            where score > 80 
+            orderby score 
+            descending select $"The score is {score}";
+            
+        //var scoreQuery = scores.Where(s => s > 80). OrderByDescending(s => s);
         //Kan brukes i stedet for den over
        
         Console.WriteLine("\nScores above 80:");
-        foreach(int i in scoreQuery)
+        foreach(string s in scoreQuery)
         {
-            Console.WriteLine(i);
+            Console.WriteLine(s);
         }
         int scoreCount = scoreQuery.Count();
         Console.WriteLine($"The numbers of scores are: {scoreCount}");

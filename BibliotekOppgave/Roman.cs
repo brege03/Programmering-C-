@@ -15,11 +15,11 @@ public class Roman : Bok
     }
     public void LeverInn()
     {
-        Console.WriteLine("Roman er levert inn");
+        Console.WriteLine($"Roman: {Tittel}, er levert inn");
     }
     public void LånUt()
     {
-        Console.WriteLine("Roman er lånt ut");
+        Console.WriteLine($"Roman: {Tittel}, er lånt ut");
     }
 
 }

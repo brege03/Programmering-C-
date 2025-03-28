@@ -1,0 +1,15 @@
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/bin/Debug/net9.0/LinqØving
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/bin/Debug/net9.0/LinqØving.deps.json
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/bin/Debug/net9.0/LinqØving.runtimeconfig.json
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/bin/Debug/net9.0/LinqØving.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/bin/Debug/net9.0/LinqØving.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/obj/Debug/net9.0/LinqØving.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/obj/Debug/net9.0/LinqØving.AssemblyInfoInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/obj/Debug/net9.0/LinqØving.AssemblyInfo.cs
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/obj/Debug/net9.0/LinqØving.csproj.CoreCompileInputs.cache
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/obj/Debug/net9.0/LinqØving.sourcelink.json
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/obj/Debug/net9.0/LinqØving.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/obj/Debug/net9.0/refint/LinqØving.dll
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/obj/Debug/net9.0/LinqØving.pdb
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/obj/Debug/net9.0/LinqØving.genruntimeconfig.cache
+/Users/bragekristoffersen/Documents/Programmering C#/LinqØving/obj/Debug/net9.0/ref/LinqØving.dll

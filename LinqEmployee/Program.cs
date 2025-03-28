@@ -57,7 +57,7 @@ class LINQWithArrayOfObjects
             where (e.MonthlySalary >= 4000M) && (e.MonthlySalary <= 6000M)
             select e;
        
-        Console.WriteLine("\nEmployees earning in the range" + $"{4000:C}-{6000:C} per month:");
+        Console.WriteLine("\nEmployees earning in the range " + $"{4000:C}-{6000:C} per month:");
         foreach (var element in between4k6k)
         {
             Console.WriteLine(element);
