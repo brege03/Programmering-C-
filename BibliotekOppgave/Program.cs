@@ -2,12 +2,17 @@ using BibliotekOppgave;
 using System.Linq;
 using System;
 using System.Collections.Generic;
+
+//Hovedprogrammet
 internal class Program
 {
+    //Liste for å lagre bøker
     static List<Bok> bøker = new List<Bok>();
     
+    //Metode for å legge til bøker
     static void LeggTilBok()
     {
+        //Ber brukeren om å legge til informasjon om boken
         Console.WriteLine("Hva er ISBN til boken?");
         int isbn = int.Parse(Console.ReadLine());
 
@@ -24,6 +29,7 @@ internal class Program
         string bokType = Console.ReadLine();
         bokType = bokType.ToLower();
 
+        //Sjekker hvilken type bok det er og oppretter en ny instans av den aktuelle klassen
         if(bokType == "roman")
         {
             Console.WriteLine("Hva er sjanger til boken?");
@@ -38,6 +44,7 @@ internal class Program
             bøker.Add(new Fagbok(fagområde, isbn, tittel, forfatter, utgivelsesår));
         }
 
+        //Hvis boktypen ikke er gyldig, skriv ut en melding
         else
         {
             Console.WriteLine("Ugyldig boktype");
@@ -45,6 +52,8 @@ internal class Program
         
     }
 
+    //Metode for å liste opp bøker
+    //Går gjennom listen av bøker og kaller VisInfo metoden for hver bok i listen bøker
     static void ListeOpp()
     {
         foreach(var bok in bøker)
@@ -53,6 +62,8 @@ internal class Program
         }
     }
 
+    //Metode for å finne bøker etter forfatter, årstall eller tittel
+    //Bruker LINQ for å søke i listen av bøker
     static void FinnForfatter()
     {
         Console.WriteLine("Hva er navnet til forfatteren?");
@@ -119,12 +130,16 @@ internal class Program
             }
         }
 
-
+    //Hovedmetoden
+    //Starter programmet og viser menyen
     static void Main(string[] args)
-    {
+    {   
+        //La til noen bøker i listen for testing
         bøker.Add(new Roman("Fantasy", 123456789, "Harry Potter", "J.K. Rowling", 1997));
         bøker.Add(new Fagbok("Matematikk", 987654321, "Matte 1", "Ola Normann", 2000));
-        
+
+        //Lager en while løkke for å vise menyen
+        //Brukeren kan velge mellom å legge til bøker, liste opp bøker, finne bøker etter forfatter, årstall eller tittel
         while(true)
         {
         Console.WriteLine("Velkommen til biblioteket");
@@ -138,7 +153,7 @@ internal class Program
 
         int valg = int.Parse(Console.ReadLine());
 
-        
+            //Bruker en switch metode for å håndtere brukerens valg
             switch(valg)
             {
             case 1:
@@ -159,6 +174,8 @@ internal class Program
             case 6:
                 Console.WriteLine("Ha en fin dag!");
                 return;
+            
+            //Hvis brukeren velger et alternativ som ikke er gyldig, skriv ut en melding
             default:
                 Console.WriteLine("Ugyldig valg");
                 break;
